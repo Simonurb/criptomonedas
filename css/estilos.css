@@ -40,10 +40,10 @@ display: block;
 }
 #nav ul li a:hover{
  background-color: #F8F0EE;
- color: #fff;
+ color: #2748A0;
 }
 .active {
- background-color: #2748A0;
+ background-color: #53D0EC;
 }
 
 
